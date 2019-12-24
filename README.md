@@ -2,7 +2,7 @@
 
 react-native应用演示：本示例为android版本
 
-![image](https://github.com/rayeric/react-native-demo/img/1.jpg)
+![image](https://github.com/rayeric/react-native-demo/blob/master/img/1.jpg)
 
 
 ## install
