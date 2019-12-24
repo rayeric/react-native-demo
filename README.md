@@ -15,6 +15,20 @@ react-native应用演示：本示例为android版本
 ![image](https://github.com/rayeric/react-native-demo/blob/master/img/5.jpg)
 -->
 
+## 目录结构介绍
+
+    |-- android 安卓工程
+    |-- img markdown图片
+    |-- ios ios工程
+    |-- src 开发代码
+        |-- apis 请求的api
+        |-- assets 静态资源
+        |-- components 组件
+        |-- navigator 导航器（路由）
+        |-- pages 页面
+        |-- store 状态管理
+        |-- utils 封装的插件、方法
+
 ## install
 ```shell script
 yarn
